@@ -1,0 +1,18 @@
+.row {
+  display: flex;
+}
+
+.tile {
+  background-color: #a0c702;
+  width: 45px;
+  height: 45px;
+  border: 1px solid #00000026
+}
+
+.tile--snake {
+  background-color: black;
+}
+
+.tile--food {
+  background-color: #ff0000;
+}
